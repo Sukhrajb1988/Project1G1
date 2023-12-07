@@ -1,7 +1,7 @@
-# Project1G1
-Project 1
-
+ Project1
 Conclusion
+
+Analysis on Appple stocks Vs Income  and Revenue
 
 While Samsung stock price and Apple stock price does have a positive correlation, there may be many other factors that are affecting the correlation. Apple’s product launch seems to have greater impact than Samsung’s on its own stock price as well as on the competitor’s stock price. 
 
@@ -13,3 +13,6 @@ The iPhone is the product family with more launches (53 products). There are 28 
 Not all product launches have a direct or immediate impact on stocks. Some additional factors that can influence the relationship between launches and stocks.
 
 Apple stock price don’t have strong  correlation with profit margin but we can see correlation with net income and revenue.Whenever the stock price declines we see drops in revenue
+
+Apple Profit margin seems to be constant over the years
+Apple TTM Income and revenue has increased drastically over the years which is directly related to stocks 
