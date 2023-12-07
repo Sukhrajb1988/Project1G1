@@ -1,16 +1,18 @@
-# Project1G1
+ Project1
+Conclusion
+
 Analysis on Appple stocks Vs Income  and Revenue
-Profit Margin Vs  Apple Stocks Vs Revenue 
 
-Apple revenue increased dramatically in the 2010s, from $65 billion at the start of the decade to $274 billion by the end. Revenues declined in 2022.
-Apple stocks declined in the 2015 where we don't see decline  profits
-![Alt text](image-1.png)
+While Samsung stock price and Apple stock price does have a positive correlation, there may be many other factors that are affecting the correlation. Apple’s product launch seems to have greater impact than Samsung’s on its own stock price as well as on the competitor’s stock price. 
 
-Correlation:
-![Alt text](image-1.png)
-![Alt text](image-2.png)
+The comparison of Basic vs Diluted are shown on the first graph. There is no significant difference although we have taken the Diluted value for the analysis as Diluted EPS accounts for all potential dilution that could occur from stock-based compensation, warrants, convertible securities, and other dilutive instruments. The % change of EPS and showed a big increase and decrease. There are more positive increase than negative. 
 
+Comparison analysis of EPS Diluted compared to Adj Close of stock data, the data are close relative to price until it hit 2020 where the Adj Close started to take off until the data of 2022. And finally, I did an r value test which shows a negative colleration. This shows that there are no direct relation of Adj Close to EPS. This inverse correlation though enables investors to diversify their portfolios. EPS has more factors to consider other thatn Adj Close like product launches and expenses. 
+
+The iPhone is the product family with more launches (53 products). There are 28 launch products that are current in the market.
+Not all product launches have a direct or immediate impact on stocks. Some additional factors that can influence the relationship between launches and stocks.
+
+Apple stock price don’t have strong  correlation with profit margin but we can see correlation with net income and revenue.Whenever the stock price declines we see drops in revenue
 
 Apple Profit margin seems to be constant over the years
 Apple TTM Income and revenue has increased drastically over the years which is directly related to stocks 
-![Alt text](image-3.png)
